@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: itz-shantnu097.github.io/rutu-website
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: rutu-website package
+site-title: `rutu-website`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: itz-shantnu097.github.io/rutu-website
+current-package: itz-shantnu097.github.io/rutu-website
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of rutu-website.
 
 -- display-type:
-types: $<repo_name>.types
+types: $rutu-website.types
 
 
 -- end: site-doc.doc-home
